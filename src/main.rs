@@ -7,6 +7,6 @@ fn main() -> io::Result<()> {
     let mut stdout = stdout.lock();
     let buf = get_buf();
     loop {
-        stdout.write(&buf).unwrap();
+        stdout.write(&buf)?;
     }
 }
