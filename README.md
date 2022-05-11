@@ -1,6 +1,8 @@
-# yes
-GNU yes in Rust.
+# yes 
 
+[![](https://github.com/ty-cs/yes/actions/workflows/CI.yml/badge.svg)](https://github.com/ty-cs/yes/actions/workflows/CI.yml)
+
+GNU yes in Rust.
 
 ## Performance
 
